@@ -1,6 +1,6 @@
 {
-  "name": "draft-js-single-line-plugin",
-  "version": "0.0.1",
+  "name": "textio-draft-js-single-line-plugin",
+  "version": "0.0.4",
   "description": "Restrict a draft-js editor to a single line of input.",
   "main": "lib/index.js",
   "scripts": {
