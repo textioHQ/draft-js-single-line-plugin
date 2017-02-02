@@ -1,6 +1,6 @@
 {
   "name": "textio-draft-js-single-line-plugin",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Restrict a draft-js editor to a single line of input.",
   "main": "lib/index.js",
   "scripts": {
@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/icelab/draft-js-single-line-plugin",
   "peerDependencies": {
-    "draft-js": ">=0.7.0",
+    "draft-js": ">=0.7.0-beta",
     "react": ">=15.0.0",
     "react-dom": ">=15.0.0"
   },
